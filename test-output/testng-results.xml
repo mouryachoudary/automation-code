@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T11:02:44 IST" name="Default suite" finished-at="2024-07-24T11:02:57 IST" duration-ms="12924">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T11:02:44 IST" name="Default test" finished-at="2024-07-24T11:02:57 IST" duration-ms="12924">
+      <class name="Api.test.Usertests">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:Api.test.Usertests@470734c3]" started-at="2024-07-24T11:02:44 IST" name="setupdata" finished-at="2024-07-24T11:02:45 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="testpostUser()[pri:1, instance:Api.test.Usertests@470734c3]" started-at="2024-07-24T11:02:45 IST" name="testpostUser" finished-at="2024-07-24T11:02:51 IST" duration-ms="6801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostUser -->
+        <test-method signature="testgetuser()[pri:2, instance:Api.test.Usertests@470734c3]" started-at="2024-07-24T11:02:51 IST" name="testgetuser" finished-at="2024-07-24T11:02:53 IST" duration-ms="1352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetuser -->
+        <test-method signature="updateuser()[pri:3, instance:Api.test.Usertests@470734c3]" started-at="2024-07-24T11:02:53 IST" name="updateuser" finished-at="2024-07-24T11:02:56 IST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateuser -->
+        <test-method signature="testdelateuser()[pri:4, instance:Api.test.Usertests@470734c3]" started-at="2024-07-24T11:02:56 IST" name="testdelateuser" finished-at="2024-07-24T11:02:57 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdelateuser -->
+      </class> <!-- Api.test.Usertests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

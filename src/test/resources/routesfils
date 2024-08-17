@@ -1,0 +1,5 @@
+only url this class
+posturl=https://petstore.swagger.io/v2/user/createWithList
+geturl=https://petstore.swagger.io/v2/user/{username}
+updateurl=https://petstore.swagger.io/v2/user/{username}
+deleteurl=https://petstore.swagger.io/v2/user/{username}
